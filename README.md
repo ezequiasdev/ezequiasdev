@@ -31,7 +31,7 @@ Olá, me chamo Ezequias, sou mineiro, pardo, pai de pet e apaixonado por tecnolo
 
 Aqui você encontra os meus projetos desenvolvidos até o momento.
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ezequiasdev&repo=ezequiasdev&theme=bear&bg_color=0a305f&dates_FFF&border_color=0a305f&title_color=FFF&text_color=FFF)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ezequiasdev&repo=meuPortifolio&theme=bear&bg_color=0a305f&dates_FFF&border_color=0a305f&title_color=FFF&text_color=FFF)](https://github.com/anuraghazra/github-readme-stats)
 
 
 ### Entre em contato 🔗
