@@ -25,13 +25,17 @@ Olá, me chamo Ezequias, sou mineiro, pardo, pai de pet e apaixonado por tecnolo
 ### Status do GitHub 🧑🏽‍💻
 
 ![Status](https://github-readme-stats.vercel.app/api?username=ezequiasdev&theme=bear&bg_color=0a305f&dates_FFF&border_color=0a305f&show_icons=true&icon_color=30A3DC&title_color=FFF&text_color=FFF)
-![Linguagens](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=ezequiasdev&layout=compact&bg_color=0a305f&border_color=0a305f&title_color=FFF&text_color=FFF)
 
-### Projetos
+### Linguagens que mais utilizo 🧑🏽‍💻
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ezequiasdev&repo=meuPortifolio&theme=bear&bg_color=0a305f&dates_FFF&border_color=0a305f&title_color=FFF&text_color=FFF)](https://github.com/anuraghazra/github-readme-stats)
+
+
+### Projetos 📚
 
 Aqui você encontra os meus projetos desenvolvidos até o momento.
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ezequiasdev&repo=meuPortifolio&theme=bear&bg_color=0a305f&dates_FFF&border_color=0a305f&title_color=FFF&text_color=FFF)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ezequiasdev&repo=meuPortifolio&layout=compact&bg_color=0a305f&border_color=0a305f&title_color=FFF&text_color=FFF)](https://github.com/anuraghazra/github-readme-stats)
 
 
 ### Entre em contato 🔗
