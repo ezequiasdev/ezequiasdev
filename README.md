@@ -1,5 +1,5 @@
 <h1>
-    <a href="https://github.com/Ezequiassc">
+    <a href="https://github.com/ezequiasdev">
      <img align="center" width="40px" src="https://th.bing.com/th/id/OIG3.7N7DhhBfe6Az9lyJrWhb?w=1024&h=1024&rs=1&pid=ImgDetMain"></a>
     <span> Olá! Seja Bem Vindo ao meu perfil! 😁👋🏽</span>
 </h1>
@@ -8,7 +8,7 @@ Aqui você encontra todos os meus projetos desenvolvidos ou que contribui e tamb
 
 ---
 
-# Ezequias S. Cordeiro 👨🏽‍💻
+# Ezequias da Silva Cordeiro 👨🏽‍💻
 
 Olá, me chamo Ezequias, sou mineiro, pardo, pai de pet e apaixonado por tecnologia. Sou estudante de Desenvolvimento de Sistemas, ministrado pela escola Proz Educação Profissional no período da manhã (Mas caso precise, pode ser alterado). Atualmente a minha área de atuação é atendimento ao cliente na empresa [Localiza&Co](https://www.localiza.com/brasil/pt-br?gad_source=1&gclid=CjwKCAjwrcKxBhBMEiwAIVF8rE4fsnBapCZ2NozvYklnxm_x_koE-_JiaLY0k5cDLj0Io-RDV598oxoCwTsQAvD_BwE). Uma curiosidade é que sou viciado em pipoca, seja doce ou salgada.🍿
 
@@ -24,14 +24,14 @@ Olá, me chamo Ezequias, sou mineiro, pardo, pai de pet e apaixonado por tecnolo
 
 ### Status do GitHub 🧑🏽‍💻
 
-![Status](https://github-readme-stats.vercel.app/api?username=Ezequiassc&theme=bear&bg_color=0a305f&dates_FFF&border_color=0a305f&show_icons=true&icon_color=30A3DC&title_color=FFF&text_color=FFF)
-![Linguagens](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Ezequiassc&layout=compact&bg_color=0a305f&border_color=0a305f&title_color=FFF&text_color=FFF)
+![Status](https://github-readme-stats.vercel.app/api?username=ezequiasdev&theme=bear&bg_color=0a305f&dates_FFF&border_color=0a305f&show_icons=true&icon_color=30A3DC&title_color=FFF&text_color=FFF)
+![Linguagens](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=ezequiasdev&layout=compact&bg_color=0a305f&border_color=0a305f&title_color=FFF&text_color=FFF)
 
 ### Projetos
 
 Aqui você encontra os meus projetos desenvolvidos até o momento.
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ezequiasdev%repo=ezequiasdev&theme=bear&bg_color=0a305f&dates_FFF&border_color=0a305f&title_color=FFF&text_color=FFF)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ezequiasdev&repo=ezequiasdev&theme=bear&bg_color=0a305f&dates_FFF&border_color=0a305f&title_color=FFF&text_color=FFF)](https://github.com/anuraghazra/github-readme-stats)
 
 
 ### Entre em contato 🔗
